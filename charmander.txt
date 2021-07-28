@@ -1,2 +1,2 @@
 flamethrower
-coolMove
+cool_move
